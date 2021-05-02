@@ -23,6 +23,13 @@ main > h2 { font-size:30px;}
 main > h3 { font-size:20px;}
 main > p { line-height: 25px; font-size:16px}
 main > ul { line-height: 25px;}
+summary {color: white;}
+h3 {color: white;}
+h2 {color: white;}
+h1 {color: white;}
+p  {color: white}
+ul {color: white}
+
 
 main > ul.jump { columns:2; line-height: 20px}
 main > ul.jump li { list-style-type: decimal-leading-zero; list-style-position: inside;}
@@ -85,7 +92,7 @@ ul.nobull li {list-style-type: none}
   body a:visited {color: #ccc;}
   main > pre { background: white; color:#000}
   main > code { background:white; color:#000}
-  body select { color: black; background-color: white;}
+  body select { color: white; background-color: black;}
 }
 
 /* Mobile */
